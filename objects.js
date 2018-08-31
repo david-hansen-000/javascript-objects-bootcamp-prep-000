@@ -2,7 +2,7 @@ var playlist = {
   "Old MacDonald": "had a farm"
 };
 
-playlist;
+console.log(playlist);
 
 function updatePlaylist(obj, key, value) {
   obj[key] = value;
