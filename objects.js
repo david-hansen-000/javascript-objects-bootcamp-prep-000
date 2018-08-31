@@ -21,5 +21,5 @@ function removeFromPlaylist(obj, key) {
   return obj;
 }
 
-removeFromPlaylist(playlist, "OldMacDonald");
+removeFromPlaylist(playlist, "Old MacDonald");
 
